@@ -7,7 +7,7 @@ import os
 os.system("git pull")
 os.system("figlet AttAck")
 print "Tool Devoloped By Leader"
-print "Telegram : https://t.me/Mr_Rorbot
+print ("https://t.me/Mr_Rorbot")
 print "starting in 5 seconds....."
 time.sleep(5)
 
